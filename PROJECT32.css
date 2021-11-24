@@ -1,0 +1,158 @@
+.a901
+{
+    width: 100%;
+    background-color: #3a376c;
+    height: 60%;
+    margin-top: -2%;
+    margin-bottom: -5%;
+
+}
+.img-a901
+{
+    width: 100%;
+    height: 100%;
+  
+
+}
+
+.div-a901
+{
+    width: 10%;
+    margin-left: 10%;
+    text-align: left;
+    height: 40%;
+    display: flex;
+    float: left;
+    flex-direction: column;
+    margin-top: 2%;
+}
+
+.h2-a901
+{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.g1 
+{
+    width: 10%;
+    height: 15%;
+    margin-left: 10%;
+    
+}
+.j1
+{
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: 100;
+    margin-bottom: 3%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.j1:link
+{
+    text-decoration: none;
+}
+
+.div-a902
+{
+    width: 10%;
+   
+    text-align: left;
+    height: 40%;
+    display: flex;
+    float: left;
+    flex-direction: column;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+.div-a903
+{
+    width: 20%;
+    margin-right: 10%;
+   
+    text-align: left;
+    height: 40%;
+    display: flex;
+    float: left;
+    flex-direction: column;
+    margin-top: 2%;
+    margin-left: 10%;
+    
+}
+
+.hr1
+{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+    border-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.1);
+    border-width: 0.2px;
+    
+}
+.div-a904
+{
+    margin-top: 20%;
+    height: 20%;
+    width: 100%;
+}
+
+.end
+{
+    color: rgba(255, 255, 255, 0.3);
+    margin-left: 25%;
+    margin-top: 0%;
+}
+
+.k1
+
+{
+    width: 100%;
+    height: 25%;
+}
+.l1
+{
+    width: 70%;
+    height: 100%;
+   
+    display: flex;
+    float: left;
+    
+}
+.l2
+{
+    width: 20%;
+    height: 100%;
+    
+    
+    display: flex;
+    float: left;
+    
+    
+
+}
+.input
+{
+    width: 100%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px ;
+    border-color: white;
+    border-style: solid;
+    box-sizing: border-box;
+
+}
+.button
+{
+    width: 100%;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px ;
+    background-color: #d0a904;
+    border-color: #d0a904;
+    border-style: solid;
+}
+
+img.arrow
+{ width: 40%;
+    height:60%;
+    
+}
+
